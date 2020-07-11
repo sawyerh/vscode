@@ -1,0 +1,21 @@
+{
+  "name": "theme-sawyer",
+  "displayName": "Theme - Sawyer",
+  "description": "Oceanic Next theme for VSCode",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.47.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Theme - Sawyer",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Theme - Sawyer-color-theme.json"
+      }
+    ]
+  }
+}
