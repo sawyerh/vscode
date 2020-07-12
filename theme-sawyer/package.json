@@ -1,7 +1,8 @@
 {
+  "publisher": "Sawyer",
   "name": "theme-sawyer",
   "displayName": "Theme - Sawyer",
-  "description": "Oceanic Next theme for VSCode",
+  "description": "Sawyer's remix of the Oceanic Next theme for VSCode",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.47.0"
@@ -17,5 +18,8 @@
         "path": "./themes/Theme - Sawyer-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "url": "https://github.com/sawyerh/vscode"
   }
 }
